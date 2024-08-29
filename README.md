@@ -1,5 +1,3 @@
-# AI-Recipe-Generator
-#Put in the ingridents you have and the AI will give out interesting recipes 
 # Import necessary modules
 from flask import Flask, render_template_string, request
 from boltiotai import openai
